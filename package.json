@@ -1,5 +1,8 @@
 {
-  "name": "vaultix-vercel-api",
-  "version": "1.0.0",
-  "type": "module"
+  "name": "vaultix-api-bypassss",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "18.x"
+  }
 }
